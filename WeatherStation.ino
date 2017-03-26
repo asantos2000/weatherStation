@@ -7,8 +7,8 @@
 // Arduino Cloud settings and credentials
 const char userName[]   = "adsantos";
 const char thingName[] = "WeatherStation";
-const char thingId[]   = "92c46ff8-bab2-46ce-bbc4-3bc1a0938641";
-const char thingPsw[]  = "caa03c3a-cfdb-4ef7-bd4b-e6fd43f66464";
+const char thingId[]   = "your-thing-id";
+const char thingPsw[]  = "your-thing-pwd";
 
 
 BridgeSSLClient sslClient;
